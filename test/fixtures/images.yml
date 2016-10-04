@@ -1,0 +1,9 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  picture: MyText
+  outfit_id: 
+
+two:
+  picture: MyText
+  outfit_id: 

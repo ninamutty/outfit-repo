@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  date: 2016-10-03
+  category: MyString
+  name: MyString
+  reworn_count: 1
+  favorite: false
+
+two:
+  date: 2016-10-03
+  category: MyString
+  name: MyString
+  reworn_count: 1
+  favorite: false
